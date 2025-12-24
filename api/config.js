@@ -1,7 +1,7 @@
 
 module.exports = {
     // --- KREDENSIAL (Ganti di sini) ---
-    botToken: "YOUR_TELEGRAM_BOT_TOKEN",
+    botToken: "8302320785:AAFkPCx_CVU2ZmPtq8bhEKdhHDjWEaqpcF4",
     upstashUrl: "https://your-redis-url.upstash.io",
     upstashToken: "YOUR_UPSTASH_TOKEN",
 
