@@ -1,0 +1,14 @@
+{
+  "name": "xdpzq-ai-bot",
+  "version": "1.0.0",
+  "description": "AI Telegram Bot",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.7",
+    "@upstash/redis": "^1.28.4"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
