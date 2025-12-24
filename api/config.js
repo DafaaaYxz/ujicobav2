@@ -2,8 +2,8 @@
 module.exports = {
     // --- KREDENSIAL (Ganti di sini) ---
     botToken: "8302320785:AAFkPCx_CVU2ZmPtq8bhEKdhHDjWEaqpcF4",
-    upstashUrl: "https://your-redis-url.upstash.io",
-    upstashToken: "YOUR_UPSTASH_TOKEN",
+    upstashUrl: "https://growing-firefly-50232.upstash.io",
+    upstashToken: "AcQ4AAIncDFlYjI2ZWM2ODhmOGQ0N2YwOTI1Njg5ZDA3ZjRjMDdhMHAxNTAyMzI",
 
     // --- PENGATURAN BOT ---
     botName: "XdpzQ-AI",
